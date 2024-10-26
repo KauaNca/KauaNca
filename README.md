@@ -18,6 +18,14 @@ tecnologia da informação.
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </div><br/>
 
-![Kauã GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaNca&show_icons=true&theme=radical&locale=pt-br)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaNca&hide_progress=false&locale=pt-br" alt="Top Langs"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=KauaNca&show_icons=true&theme=radical&locale=pt-br" alt="Kauã GitHub stats"/>
+    </td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaNca&hide_progress=false&locale=pt-br)
