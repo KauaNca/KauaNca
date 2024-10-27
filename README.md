@@ -5,7 +5,7 @@ buscando oportunidade para aplicar e aprimorar habilidades em programação e
 tecnologia da informação.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaua.n.c/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kauã-nunes)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauã-nunes/)
 
 ## Tecnologias que eu uso no meu dia
 
