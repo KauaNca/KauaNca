@@ -21,7 +21,7 @@ tecnologia da informação.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaNca&hide_progress=false&locale=pt-br" alt="Top Langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaNca&hide_progress=false&locale=pt-br" alt="Langs"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=KauaNca&show_icons=true&theme=radical&locale=pt-br" alt="Kauã GitHub stats"/>
