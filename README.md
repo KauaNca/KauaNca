@@ -22,14 +22,15 @@ tecnologia da informação.
   <tr>
     <td>
        <a href="https://github.com/KauaNca">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaNca&layout=compact&langs_count=7&theme=chartreuse-dark&locale=pt-br"/>
-  </a>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaNca&layout=compact&langs_count=7&theme=chartreuse-dark&locale=pt-br"/>
+       </a>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=KauaNca&show_icons=true&theme=radical&locale=pt-br" alt="Kauã GitHub stats"/>
     </td>
   </tr>
 </table>
+
 
 
 
