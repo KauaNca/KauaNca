@@ -26,12 +26,7 @@ tecnologia da informação.
        </a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KauaNca&show_icons=true&theme=radical&locale=pt-br" alt="Kauã GitHub stats"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaNca&show_icons=true&theme=chartreuse-dark&locale=pt-br" alt="Kauã GitHub stats"/>
     </td>
   </tr>
 </table>
-
-
-
-
-
